@@ -1,5 +1,5 @@
 # Nagames
-Trying to learn AngularJs by building this website. You can open the website directly from this link: https://nagames.netlify.app . 
+Trying to learn AngularJs by building this website. You can open the website directly from this link: https://nagames.netlify.app . <br> 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.0.
 
 ## Development server
